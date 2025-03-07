@@ -1,1 +1,3 @@
 # Implementation-of-Personal-Fitness-Tracker
+
+The Personal Fitness Tracker is a Streamlit-powered web application designed to help users monitor their fitness progress by predicting calories burned based on personal health parameters like age, BMI, duration of exercise, heart rate, body temperature, and gender. The app uses machine learning (Random Forest Regressor) to analyze user inputs and provide accurate calorie predictions. It also offers comparative insights by analyzing user data against existing fitness records. Secure authentication is implemented using Streamlit Authenticator, ensuring personalized user experiences. This project is ideal for anyone looking to track their fitness progress efficiently and make data-driven health decisions.
